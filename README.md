@@ -362,7 +362,7 @@ The good news: all three are fixable with targeted, data-driven strategies.
 
 ## 📊 Dashboard
 
-> 🔗 **[View Interactive Dashboard]([#](https://app.powerbi.com/groups/me/reports/84611003-7965-43d8-ba36-c29f7ce0b756/68e9adab6632c684e67f?experience=power-bi&bookmarkGuid=492e72245a095af67cbc))** *(Power BI Dashboard)*
+> 🔗 ****[View Interactive Dashboard](https://app.powerbi.com/groups/me/reports/84611003-7965-43d8-ba36-c29f7ce0b756/68e9adab6632c684e67f?experience=power-bi&bookmarkGuid=492e72245a095af67cbc)**** *(Power BI Dashboard)*
 
 The dashboard covers:
 - 📈 Monthly profit & sales trend (2020–2023)
@@ -437,9 +437,9 @@ jupyter notebook notebooks/skincare_sales_analysis.ipynb
 **[Your Name]**
 *Aspiring Data Analyst | Python · SQL · Data Visualization*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-rafli-febriyanto-969984216/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/muhammad-rafli-febriyanto-969984216/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/RafTech19)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:rafli.bim05@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](rafli.bim05@gmail.com)
 
 ---
 
